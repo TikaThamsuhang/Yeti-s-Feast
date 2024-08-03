@@ -1,0 +1,14 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Custom class to hide spinner buttons */
+.hide-spinner::-webkit-outer-spin-button,
+.hide-spinner::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.hide-spinner {
+    -moz-appearance: textfield;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

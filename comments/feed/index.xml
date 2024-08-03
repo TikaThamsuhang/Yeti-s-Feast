@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Yeti&#039;s Feast	</title>
+	<atom:link href="http://tikathamsuhang.github.io/Yeti-s-Feast/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tikathamsuhang.github.io/Yeti-s-Feast</link>
+	<description>Where Every Bite Tells a Story</description>
+	<lastBuildDate>Mon, 29 Jul 2024 18:07:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Comment on The 7 best places to eat in New York by tikathamsuhang		</title>
+		<link>http://tikathamsuhang.github.io/Yeti-s-Feast/the-7-best-places-to-eat-in-new-york/#comment-7</link>
+
+		<dc:creator><![CDATA[tikathamsuhang]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 18:07:09 +0000</pubDate>
+		<guid isPermaLink="false">http://tikathamsuhang.github.io/Yeti-s-Feast/?p=745#comment-7</guid>
+
+					<description><![CDATA[Hello]]></description>
+			<content:encoded><![CDATA[<p>Hello</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

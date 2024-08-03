@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What’s Fresh on Our Menu This Month	</title>
+	<atom:link href="http://tikathamsuhang.github.io/Yeti-s-Feast/whats-fresh-on-our-menu-this-month/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tikathamsuhang.github.io/Yeti-s-Feast/whats-fresh-on-our-menu-this-month/</link>
+	<description>Where Every Bite Tells a Story</description>
+	<lastBuildDate>Mon, 29 Jul 2024 15:36:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+</channel>
+</rss>
